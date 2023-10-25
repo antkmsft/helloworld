@@ -1,0 +1,7 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "dependencies": [
+    "azure-messaging-eventhubs-checkpointstore-blob-cpp"
+  ]
+}
