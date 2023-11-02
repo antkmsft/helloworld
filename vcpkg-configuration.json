@@ -1,0 +1,7 @@
+{
+  "default-registry": {
+    "kind": "git",
+    "baseline": "acc520e7d329c76dc470da7f0fd623be131959f2",
+    "repository": "https://github.com/antkmsft/vcpkg"
+  }
+}
